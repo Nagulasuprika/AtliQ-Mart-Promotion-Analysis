@@ -218,3 +218,335 @@ This project aims to:
 - Category Performance
 - Store Performance
 - City Performance
+# 🔬 4. Methodology
+
+## 1. Data Analysis Framework
+
+### A. Executive Performance Analysis
+
+**Purpose:**  
+Evaluate the overall effectiveness of festive promotional campaigns and quantify their impact on sales performance.
+
+**Metrics Calculated:**
+
+- Revenue Before & After Promotion
+- Incremental Revenue (IR)
+- Incremental Revenue Percentage (IR%)
+- Quantity Sold Before & After Promotion
+- Incremental Sold Units (ISU)
+- Incremental Sold Units Percentage (ISU%)
+- Campaign-wise Revenue Contribution
+
+**Tools Used:**
+
+- MySQL (Business Query Analysis)
+- Microsoft Excel
+- Pivot Tables
+- Power Query
+- Interactive Dashboard
+- KPI Cards & Statistical Calculations
+
+---
+
+### B. Comparative Campaign Analysis
+
+**Purpose:**  
+Compare Diwali and Sankranti campaigns to identify the most successful promotional strategy.
+
+**Methodology**
+
+Incremental Revenue %
+
+```
+IR% =
+(Revenue After Promotion − Revenue Before Promotion)
+/ Revenue Before Promotion × 100
+```
+
+Example
+
+```
+Diwali Revenue
+
+₹82.57M → ₹171.46M
+
+IR = 108%
+```
+
+Incremental Sold Units %
+
+```
+ISU% =
+(Quantity After − Quantity Before)
+/ Quantity Before ×100
+```
+
+Applied To
+
+- Campaign Performance
+- Revenue Growth
+- Sales Growth
+- Promotion Effectiveness
+
+---
+
+### C. Promotion Performance Analysis
+
+**Purpose:**  
+Determine which promotional offers generated sustainable business growth.
+
+**Evaluation Criteria**
+
+Highest Revenue Growth
+
+- BOGOF
+- Cashback Promotions
+
+Highest Sales Growth
+
+- BOGOF
+- Cashback
+
+Low Performing Promotions
+
+- 25% OFF
+- 33% OFF
+
+Business Logic
+
+```
+High IR + High ISU
+= High Performing Promotion
+
+Negative IR
+= Promotion Requires Strategic Review
+```
+
+Performance Measures
+
+- Incremental Revenue %
+- Incremental Sold Units %
+- Promotion ROI Potential
+- Campaign Contribution
+
+---
+
+### D. Store & Product Performance Analysis
+
+**Purpose:**  
+Identify top-performing stores, cities, products, and categories for future promotional planning.
+
+**Analysis Includes**
+
+- Top 10 Stores by Incremental Revenue
+- Bottom 10 Stores by Incremental Sold Units
+- Top Cities by Promotional Performance
+- Best Performing Products
+- Category-wise Revenue Growth
+- Store Ranking
+
+**Ranking Method**
+
+```
+Top Performer
+
+Highest Incremental Revenue %
+
+Lowest Performer
+
+Lowest Incremental Sold Units %
+```
+
+Applied To
+
+- Store
+- City
+- Product
+- Category
+
+---
+
+### E. Business Impact Analysis
+
+**Purpose:**  
+Measure the overall financial impact of promotional campaigns.
+
+**Revenue Analysis**
+
+Revenue Before Promotion
+
+= ₹140.70 Million
+
+Revenue After Promotion
+
+= ₹295.61 Million
+
+Incremental Revenue
+
+= ₹154.91 Million
+
+Revenue Growth
+
+= **110%**
+
+---
+
+**Sales Analysis**
+
+Quantity Before Promotion
+
+= 209,050 Units
+
+Quantity After Promotion
+
+= 650,726 Units
+
+Additional Units Sold
+
+= 441,676 Units
+
+Sales Growth (ISU)
+
+= **211%**
+
+---
+
+## 📈 5. Key Findings
+
+### Promotional Performance Summary
+
+| Metric | Before Promotion | After Promotion | Change | Growth |
+|--------|-----------------:|----------------:|--------:|--------:|
+| Revenue | ₹140.70M | ₹295.61M | +₹154.91M | **110%** |
+| Quantity Sold | 209,050 | 650,726 | +441,676 | **211%** |
+| Incremental Revenue | — | ₹154.91M | — | 110% |
+| Incremental Sold Units | — | 441,676 | — | 211% |
+
+---
+
+### Campaign Performance
+
+| Campaign | Revenue Growth | Sales Growth |
+|-----------|---------------:|-------------:|
+| **Diwali** | **108% IR** | **97% ISU** |
+| **Sankranti** | **114% IR** | **338% ISU** |
+
+---
+
+### Promotion Insights
+
+**Top Performing Promotions**
+
+- BOGOF generated the highest Incremental Sold Units (**640% ISU**)
+- Cashback delivered the second-highest promotional performance
+- Sankranti campaign outperformed Diwali in overall promotional efficiency
+
+**Underperforming Promotions**
+
+- 25% OFF generated negative Incremental Revenue
+- 33% OFF produced limited business growth
+- Percentage discount promotions reduced profitability compared to value-based offers
+
+---
+
+### Store & Product Insights
+
+- STMYS-1 generated the highest promotional revenue among all stores.
+- Bengaluru contributed the highest overall promotional performance.
+- Home Appliances achieved the strongest category growth.
+- Atliq Waterproof Immersion Rod generated the highest Incremental Revenue.
+
+---
+
+### Executive Business Insight
+
+The analysis shows that **value-based promotions (BOGOF and Cashback)** consistently outperformed traditional percentage discounts by generating significantly higher revenue growth and sales volume.
+
+Future promotional investments should prioritize high-performing promotion types while redesigning low-performing discount strategies to maximize profitability.
+
+---
+
+# 💡 6. Business Recommendations
+
+## Immediate Actions
+
+### Expand High-Performing Promotions
+
+Focus on
+
+- BOGOF
+- Cashback Campaigns
+
+Expected Outcome
+
+- Higher Revenue Growth
+- Greater Sales Volume
+- Improved Promotional ROI
+
+---
+
+### Optimize Discount Strategies
+
+Review
+
+- 25% OFF
+- 33% OFF Promotions
+
+Recommended Actions
+
+- Reduce campaign frequency
+- Replace with bundled offers
+- Introduce minimum purchase conditions
+
+Expected Outcome
+
+- Improved Profit Margins
+- Higher Incremental Revenue
+
+---
+
+## Medium-Term Strategy
+
+### Store-Level Optimization
+
+- Replicate best-performing store strategies
+- Support bottom-performing stores with localized promotions
+- Allocate promotional budgets based on historical performance
+
+Expected Outcome
+
+- Improved consistency across all store locations
+
+---
+
+### Category-Based Campaign Planning
+
+Increase investment in
+
+- Home Appliances
+- High-performing AtliQ branded products
+
+Introduce personalized promotions for lower-performing categories.
+
+Expected Outcome
+
+- Higher category profitability
+- Better promotional efficiency
+
+---
+
+## Long-Term Strategy
+
+### Data-Driven Promotion Planning
+
+- Predict promotion effectiveness using historical sales data
+- Personalize campaigns by city and product category
+- Continuously monitor IR% and ISU% for campaign optimization
+
+### Expected Business Impact
+
+- Increased Promotional ROI
+- Improved Revenue Growth
+- Higher Customer Purchase Volume
+- Better Marketing Budget Allocation
+- Data-Driven Strategic Decision Making
