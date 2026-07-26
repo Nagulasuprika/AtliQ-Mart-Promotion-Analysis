@@ -615,7 +615,7 @@ Provides a high-level overview of promotional campaign performance and business 
 Enables decision-makers to quickly evaluate overall promotional success, monitor key KPIs, and identify the major drivers of revenue growth.
 
 <p align="center">
-<img src="https://github.com/Nagulasuprika/AtliQ-Mart-Promotion-Analysis/blob/820cd0643cdebe6eb04ec26f4058a42381154448/Atliq%20Mart%20Home.png" width="900">
+<img src="https://github.com/Nagulasuprika/AtliQ-Mart-Promotion-Analysis/blob/c42f1e45506dd50c0c569abdebbe91010e8a9486/Atliq%20Mart%20Summary.png" width="900">
 </p>
 
 ---
