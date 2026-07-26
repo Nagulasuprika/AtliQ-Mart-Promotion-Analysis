@@ -642,7 +642,7 @@ Analyzes campaign effectiveness and identifies the highest-performing promotiona
 Helps marketing teams identify which promotional campaigns maximize revenue, increase product demand, and deliver the highest business impact.
 
 <p align="center">
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Campaign%20%26%20Promotion%20Analysis.png" width="900">
+<img src="https://github.com/Nagulasuprika/AtliQ-Mart-Promotion-Analysis/blob/84d5913a78ff58c302aae688882c9c0da9341a50/Atliq%20Mart%20Campaign%20Analysis.png" width="900">
 </p>
 
 ---
