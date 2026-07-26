@@ -669,7 +669,7 @@ Evaluates product, category, city, and store performance during promotional camp
 Supports inventory optimization, store benchmarking, and category-level promotional planning by identifying top-performing and underperforming business segments.
 
 <p align="center">
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Product%20%26%20Store%20Analysis.png" width="900">
+<img src="https://github.com/Nagulasuprika/AtliQ-Mart-Promotion-Analysis/blob/c59be14fc2f6efaee1df56b644193aacf7e03a28/Atliq%20Mart%20Store%20Analysis.png" width="900">
 </p>
 
 ---
