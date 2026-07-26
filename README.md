@@ -550,3 +550,191 @@ Expected Outcome
 - Higher Customer Purchase Volume
 - Better Marketing Budget Allocation
 - Data-Driven Strategic Decision Making
+
+# 🛠️ 7. Technical Implementation
+
+## Tools & Technologies Used
+
+### Data Processing & Querying
+
+- **MySQL Workbench**
+  - Database creation and schema exploration
+  - Complex SQL queries using JOINs, CTEs, Window Functions, CASE statements, and Aggregate Functions
+  - Generated business reports for executive ad-hoc requests
+
+### Data Visualization
+
+- **Microsoft Excel**
+  - Interactive dashboard with **4 business-focused pages**
+  - KPI Cards, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting
+  - Dynamic filtering for Campaign, Promotion Type, Category, and City
+
+### Business Analysis
+
+- **Business KPIs Calculated**
+  - Incremental Revenue (IR%)
+  - Incremental Sold Units (ISU%)
+  - Revenue Before vs After Promotion
+  - Promotion Performance
+  - Campaign Contribution
+  - Product & Store Performance Rankings
+
+### Analytical Techniques
+
+- Revenue Growth Analysis
+- Promotion Effectiveness Analysis
+- Product Performance Ranking
+- Store Performance Benchmarking
+- Campaign Comparison
+- Category Contribution Analysis
+
+---
+
+# 📊 8. Dashboard Walkthrough
+
+---
+
+## 🏠 Page 1 – Executive Summary
+
+### Focus
+
+Provides a high-level overview of promotional campaign performance and business growth.
+
+### Contains
+
+- KPI Cards (Revenue Before, Revenue After, IR%, ISU%)
+- Revenue Before vs After Promotion
+- Campaign Revenue Contribution
+- Promotion Type Performance
+- Category Revenue Analysis
+- Interactive Slicers
+- Executive Insights Panel
+
+### Business Value
+
+Enables decision-makers to quickly evaluate overall promotional success, monitor key KPIs, and identify the major drivers of revenue growth.
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Executive%20Summary.png" width="900">
+</p>
+
+---
+
+## 📈 Page 2 – Campaign & Promotion Analysis
+
+### Focus
+
+Analyzes campaign effectiveness and identifies the highest-performing promotional strategies.
+
+### Contains
+
+- Promotion Type Performance
+- Campaign-wise Revenue Comparison
+- Promotion-wise Incremental Sold Units
+- Campaign Revenue Distribution
+- Best Performing Promotion KPI
+- Best Campaign KPI
+- Interactive Filters
+- Business Insights Panel
+
+### Business Value
+
+Helps marketing teams identify which promotional campaigns maximize revenue, increase product demand, and deliver the highest business impact.
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Campaign%20%26%20Promotion%20Analysis.png" width="900">
+</p>
+
+---
+
+## 🏪 Page 3 – Product & Store Analysis
+
+### Focus
+
+Evaluates product, category, city, and store performance during promotional campaigns.
+
+### Contains
+
+- Top 10 Stores by Incremental Revenue
+- Bottom 10 Stores by Incremental Sold Units
+- Category Performance
+- Product Performance
+- City-wise Revenue Analysis
+- Store Performance KPIs
+- Interactive Filters
+- Business Insights Panel
+
+### Business Value
+
+Supports inventory optimization, store benchmarking, and category-level promotional planning by identifying top-performing and underperforming business segments.
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Product%20%26%20Store%20Analysis.png" width="900">
+</p>
+
+---
+
+
+
+# 📊 Key Metrics Summary
+
+| Business Area | Metric | Value | Business Impact |
+|---------------|--------|------:|-----------------|
+| Revenue | Revenue Before Promotion | ₹140.70M | Baseline Revenue |
+| Revenue | Revenue After Promotion | ₹295.61M | Promotional Revenue |
+| Revenue | Incremental Revenue | ₹154.91M | Additional Revenue Generated |
+| Revenue | Incremental Revenue % | **110%** | Overall Revenue Growth |
+| Sales | Quantity Before Promotion | 209,050 Units | Baseline Sales |
+| Sales | Quantity After Promotion | 650,726 Units | Promotional Sales |
+| Sales | Incremental Sold Units | 441,676 Units | Additional Units Sold |
+| Sales | Incremental Sold Units % | **211%** | Overall Sales Growth |
+| Campaign | Best Performing Campaign | Diwali | 58% Revenue Contribution |
+| Campaign | Highest ISU Campaign | Sankranti | 338% ISU |
+| Promotion | Best Promotion | BOGOF | Highest Revenue & Sales Lift |
+| Promotion | Second Best Promotion | Cashback | Strong Revenue Growth |
+| Product | Top Category | Home Appliances | Highest Revenue Growth |
+| Store | Top Performing Store | STMYS-1 | Highest Incremental Revenue |
+
+---
+
+# 💡 Business Impact & Recommendations
+
+## Key Business Insights
+
+- Promotional campaigns generated an additional **₹154.91M** in revenue, representing **110% revenue growth** over the baseline.
+- Total units sold increased by **441,676**, achieving an overall **211% increase** in sales volume.
+- **BOGOF** delivered the strongest balance between revenue growth and sales volume, making it the most effective promotion.
+- **500 Cashback** emerged as the second-best promotion, significantly improving customer purchases without excessive discounting.
+- **25% OFF** and **33% OFF** promotions produced negative or minimal incremental returns, indicating poor promotional efficiency.
+- **Home Appliances** achieved the highest revenue uplift among all product categories.
+- **Sankranti** generated the highest Incremental Sold Units (338%), while **Diwali** contributed **58%** of total promotional revenue.
+- Significant performance differences across stores suggest opportunities to replicate best-performing store strategies in underperforming locations.
+
+---
+
+## Strategic Recommendations
+
+### Promotion Strategy
+
+- Increase investment in **BOGOF** and **Cashback** campaigns.
+- Reduce or redesign low-performing percentage discount promotions.
+
+### Product Strategy
+
+- Prioritize promotional spending on **Home Appliances** and other high-performing categories.
+- Reevaluate promotional strategies for underperforming product categories.
+
+### Store Optimization
+
+- Benchmark operational practices from top-performing stores.
+- Develop targeted improvement plans for low-performing stores.
+
+### Campaign Planning
+
+- Expand high-performing promotional combinations into future campaigns.
+- Use campaign performance analytics to optimize marketing budget allocation.
+
+### Data-Driven Decision Making
+
+- Continuously monitor Incremental Revenue and Incremental Sold Units.
+- Integrate SQL reporting with dashboard monitoring for ongoing campaign evaluation.
