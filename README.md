@@ -614,7 +614,7 @@ Provides a centralized navigation hub for the complete promotion performance ana
 Provides executives with a simple and intuitive starting point to explore the analysis. The home page improves dashboard usability by enabling quick navigation to Executive Summary, Campaign & Promotion Analysis, Product & Store Analysis, and SQL Business Reports, ensuring faster access to business insights.
 
 <p align="center">
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Images/Home%20Page.png" width="900">
+<img src="https://github.com/Nagulasuprika/AtliQ-Mart-Promotion-Analysis/blob/6ef0029adee7750cb8cc4b6759454ca4cc4fe59d/Atliq%20Mart%20Home.png" width="900">
 </p>
 
 ---
