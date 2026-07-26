@@ -594,7 +594,33 @@ Expected Outcome
 
 ---
 
-## 🏠 Page 1 – Executive Summary
+## 🏠 Page 1 – Home
+
+### Focus
+
+Provides a centralized navigation hub for the complete promotion performance analysis.
+
+### Contains
+
+- Project Overview
+- Business Problem Statement
+- Navigation Buttons to All Report Pages
+- Company Branding
+- Dashboard Title
+- Interactive Navigation Experience
+
+### Business Value
+
+Provides executives with a simple and intuitive starting point to explore the analysis. The home page improves dashboard usability by enabling quick navigation to Executive Summary, Campaign & Promotion Analysis, Product & Store Analysis, and SQL Business Reports, ensuring faster access to business insights.
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Images/Home%20Page.png" width="900">
+</p>
+
+---
+
+
+## 🏠 Page 2 – Executive Summary
 
 ### Focus
 
@@ -620,7 +646,7 @@ Enables decision-makers to quickly evaluate overall promotional success, monitor
 
 ---
 
-## 📈 Page 2 – Campaign & Promotion Analysis
+## 📈 Page 3 – Campaign & Promotion Analysis
 
 ### Focus
 
@@ -647,7 +673,7 @@ Helps marketing teams identify which promotional campaigns maximize revenue, inc
 
 ---
 
-## 🏪 Page 3 – Product & Store Analysis
+## 🏪 Page 4 – Product & Store Analysis
 
 ### Focus
 
